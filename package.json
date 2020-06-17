@@ -7,6 +7,11 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "cos-js-sdk-v5": "^0.5.22",
+    "element-ui": "^2.13.0",
+    "mta-h5-analysis": "^2.0.15",
+    "tim-js-sdk": "^2.6.0",
+    "trtc-js-sdk": "^4.3.6",
     "core-js": "^3.6.5",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0",
